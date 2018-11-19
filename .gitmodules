@@ -1,0 +1,4 @@
+[submodule "clouden-odoo-mercadolibre"]
+	path = clouden-odoo-mercadolibre
+	url = git@bitbucket.org:cloudeninc/clouden-odoo-mercadolibre.git
+	branch = master
